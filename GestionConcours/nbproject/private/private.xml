@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/ui/LoginFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/util/PasswordUtil.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/ui/FormulaireConcoursFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/ui/MainApp.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/ui/CandidatFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/model/Concours.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/dao/UtilisateurDao.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/model/Resultat.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/ui/RegisterFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/util/DBConnexion.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/model/Candidat.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/ui/MainFrame.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/GestionConcours/src/model/Utilisateur.java</file>
+        </group>
+    </open-files>
+</project-private>
