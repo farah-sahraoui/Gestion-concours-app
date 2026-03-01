@@ -142,9 +142,10 @@ L’application génère un diagramme circulaire affichant :
 
 ### Architecture du projet:
 
+Voici l'architecture de mon projet, visible directement dans NetBeans. J'ai organisé mon code en couches : les entités dans model, l'accès aux données dans dao avec leurs tests, l'interface utilisateur dans ui, et les outils transversaux dans util.
+
 
 <img width="588" height="702" alt="image" src="https://github.com/user-attachments/assets/16f431c5-d423-4613-937b-2e86cf4a4a08" />
-
 
 
 
